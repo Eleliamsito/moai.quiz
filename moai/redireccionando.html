@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Redireccionando</title>
+    <link rel="icon" href="logo.ico">
+    <style>
+        *{
+            transition: 0.5s;
+        }
+        @font-face {
+            font-family: 'fuente';
+            src: url("Silky\ Queen.otf");
+            
+        }
+        @font-face {
+            font-family: 'fuente2';
+            src: url("Magic\ Bread\ Regular.ttf");
+        }
+        body{
+            background-color: #247BA0;
+           
+        }
+        .parent{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 8% auto;
+
+        }
+        #mensaje{
+            
+            font-family: 'fuente';
+            font-size: 480%;
+            color: aliceblue;
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+        }
+        button{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 600px;
+            height: 200px;
+            box-shadow:0 0 15px rgba(0, 0, 0, 0.5), 0 0 10px rgba(102, 102, 102, 0.5), 2px 2px 2px rgba(206,206,206,0);
+            margin: 20px;
+            border-radius: 20px;
+            border: none;
+            font-size: 300%;
+            font-family: 'fuente';
+            
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+        }
+        button:hover{
+            scale: 103%;
+            
+        }
+        #inicio{
+            background-color: rgb(255, 231, 170);
+            color: rgb(134, 119, 81);
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+        }
+        #regresar{
+            background-color: darksalmon;
+            color: rgb(97, 75, 68);
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+            
+        }
+        #puntuacion{
+            font-family: fuente2;
+            font-size: 320%;
+            color: aliceblue;
+            background-color: rgb(255, 164, 131);
+            box-shadow:0 0 15px rgba(254, 254, 254, 0.5), 0 0 10px rgba(102, 102, 102, 0.5), 2px 2px 2px rgba(206,206,206,0);
+            border-radius: 15px;
+            text-align: center;
+            padding: 1%;
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div id="mensaje">MENSAJE!!</div>
+        <br>
+        <div id="puntuacion">puntaje: 6/6</div>
+        <br>
+        <div id="botones">
+            <button id="inicio" onclick="window.location.href='index.html'">IR AL INICIO </button>
+            
+        </div>
+    </div>
+    <script>
+        var puntaje = sessionStorage.getItem('puntos');
+        var mensaje=sessionStorage.getItem('mensaje');
+        document.getElementById('puntuacion').innerHTML="PUNTUACIÓN: "+puntaje;
+        document.getElementById('mensaje').innerHTML=mensaje;
+    </script>
+</body>
+</html>

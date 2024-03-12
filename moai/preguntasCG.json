@@ -1,0 +1,544 @@
+[
+   
+   {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál de las siguientes no es una de las '7 maravillas del mundo'?",
+        "respuesta":"Monte Rushmore",
+        "incorrecta1":"Taj Mahal",
+        "incorrecta2":"Chichen Itza",
+        "incorrecta3":"La Gran Muralla"
+
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es la montaña más alta del continente americano?",
+        "respuesta":"Aconcagua",
+        "incorrecta1":"Monte Everest",
+        "incorrecta2":"Pico Neblina",
+        "incorrecta3":"Monte Fuji"
+
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuáles son los nombres de los tres reyes magos?",
+        "respuesta":"Gaspar, Melchor y Baltazar",
+        "incorrecta1":"Gaspar, Nicolas y Nataniel",
+        "incorrecta2":"Simon, Judas y Mateo",
+        "incorrecta3":"Abraham, Noé y Moises",
+        "imagen":"reyes.jpg"
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"El director de la única película mexicana en ganar un premio Oscar como mejor película extranjera es:",
+        "respuesta":"Alfonso Cuarón",
+        "incorrecta1":"Guillermo del Toro",
+        "incorrecta2":"Luis Buñuel",
+        "incorrecta3":"Alejandro González Iñárritu"
+
+    },
+
+    {
+         "categoria":"Cultura General",
+        "pregunta":"Edson Arantes do Nascimento es mejor conocido como:",
+        "respuesta":"Pelé",
+        "incorrecta1":"Linus Pauling",
+        "incorrecta2":"Nicolas Copérnico",
+        "incorrecta3":"Albert Einstein"
+
+    },
+
+    {
+         "categoria":"Cultura General",
+        "pregunta":"La sigla OTAN significa:",
+        "respuesta":"Organización del Tratado del Atlántico Norte",
+        "incorrecta1":"Orden Territorial para Almacenes y Negocios",
+        "incorrecta2":"Organización de Técnicos de Aeronáutica",
+        "incorrecta3":"Organización Telefónica Argentina Nueva"
+
+    },
+
+    {
+         "categoria":"Cultura General",
+        "pregunta":"¿Quién es considerado el padre de la ciencia y la filosofía?",
+        "respuesta":"Aristóteles",
+        "incorrecta1":"Pitágoras",
+        "incorrecta2":"Demócrito",
+        "incorrecta3":"Tales de Mileto"
+
+    },
+
+    {
+         "categoria":"Cultura General",
+        "pregunta":"El país ganador de la Copa Mundial de Fútbol del 2010 fue:",
+        "respuesta":"España",
+        "incorrecta1":"Brasil",
+        "incorrecta2":"Alemania",
+        "incorrecta3":"Italia"
+
+    },
+
+    {
+         "categoria":"Cultura General",
+        "pregunta":"¿Qué animal gluglutea?",
+        "respuesta":"El pavo",
+        "incorrecta1":"La garza",
+        "incorrecta2":"El pato",
+        "incorrecta3":"La cacatúa"
+
+    },
+
+      {
+         "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el río más largo del mundo?",
+        "respuesta":"El Amazonas",
+        "incorrecta1":"El Misisipi",
+        "incorrecta2":"El Nilo",
+        "incorrecta3":"El Río Congo"
+
+    },
+
+     {
+         "categoria":"Cultura General",
+        "pregunta":"¿Dónde originaron los juegos olímpicos?",
+        "respuesta":"Grecia",
+        "incorrecta1":"Roma",
+        "incorrecta2":"París",
+        "incorrecta3":"España"
+
+    },
+
+     {
+         "categoria":"Cultura General",
+        "pregunta":"¿Cómo se llama el animal más rápido del mundo?",
+        "respuesta":"Guepardo",
+        "incorrecta1":"Puma",
+        "incorrecta2":"Avestruz",
+        "incorrecta3":"Tigre"
+
+    },
+
+     {
+         "categoria":"Cultura General",
+        "pregunta":"¿Quién pintó “la última cena”?",
+        "respuesta":"Leonardo da Vinci",
+        "incorrecta1":"Pablo Picasso",
+        "incorrecta2":"Vincent Van Gogh",
+        "incorrecta3":"Miguel Ángel",
+        "imagen":"ultimacena.jpg"
+
+    },
+
+     {
+         "categoria":"Cultura General",
+        "pregunta":"¿Quién fue el científico que descubrió la ley de la gravedad?",
+        "respuesta":"Isaac Newton",
+        "incorrecta1":"Albert Einstein",
+        "incorrecta2":"Charles Darwin",
+        "incorrecta3":"Louis Pasteur"
+
+    },
+
+     {
+         "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el órgano que controla el cuerpo humano?",
+        "respuesta":"El cerebro",
+        "incorrecta1":"El corazón",
+        "incorrecta2":"Los pulmones",
+        "incorrecta3":"El hígado"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuántos meses tienen 28 días?",
+        "respuesta":"12",
+        "incorrecta1":"1",
+        "incorrecta2":"3",
+        "incorrecta3":"5"
+
+    },
+
+     {
+         "categoria":"Cultura General",
+        "pregunta":"¿Qué planeta es el más cercano al Sol?",
+        "respuesta":"Mercurio",
+        "incorrecta1":"Júpiter",
+        "incorrecta2":"Neptuno",
+        "incorrecta3":"Marte",
+        "imagen":"sistema.jpg"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuándo acabó la II Guerra Mundial?",
+        "respuesta":"1945",
+        "incorrecta1":"1954",
+        "incorrecta2":"1947",
+        "incorrecta3":"1939"
+
+    },
+
+     {
+         "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el continente más extenso del planeta?",
+        "respuesta":"Asia",
+        "incorrecta1":"America",
+        "incorrecta2":"Oceanía",
+        "incorrecta3":"Europa"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es la moneda oficial de Japón?",
+        "respuesta":"El yen",
+        "incorrecta1":"El dolar",
+        "incorrecta2":"El yuan",
+        "incorrecta3":"El euro",
+        "imagen":"moneda.jpg"
+        
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es la ciudad más poblada del mundo?",
+        "respuesta":"Tokio",
+        "incorrecta1":"Delhi",
+        "incorrecta2":"Shanghái",
+        "incorrecta3":"Sao Pablo"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuántos huesos hay en el cuerpo humano?",
+        "respuesta":"206",
+        "incorrecta1":"230",
+        "incorrecta2":"215",
+        "incorrecta3":"203"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuántos elementos hay en la Tabla Periódica?",
+        "respuesta":"118",
+        "incorrecta1":"17",
+        "incorrecta2":"120",
+        "incorrecta3":"116"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuánto vale el número pi?",
+        "respuesta":"3.1416",
+        "incorrecta1":"2.1416",
+        "incorrecta2":"3.1419",
+        "incorrecta3":"1.1316"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Quién escribió “Hamlet”?",
+        "respuesta":"William Shakespeare",
+        "incorrecta1":"Oscar Wilde",
+        "incorrecta2":"Charles Dickens",
+        "incorrecta3":"Edgar Allan Poe"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Quién interpretó a Hermione Granger en 'Harry Potter'?",
+        "respuesta":"Emma Watson",
+        "incorrecta1":"Emma Stone",
+        "incorrecta2":"Emma Thompson",
+        "incorrecta3":"Emma Mackey"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es la película más taquillera de la historia?",
+        "respuesta":"Avatar",
+        "incorrecta1":"Avengers: End Game",
+        "incorrecta2":"Black Panther",
+        "incorrecta3":"E.T. el extraterrestre"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Qué pigmento da color a nuestra piel?",
+        "respuesta":"La melanina",
+        "incorrecta1":"La melotonina",
+        "incorrecta2":"La serotonina",
+        "incorrecta3":"La dopamina"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"De los cinco sentidos, ¿cuál es el que se desarrolla primero?",
+        "respuesta":"Olfato",
+        "incorrecta1":"Oído",
+        "incorrecta2":"Gusto",
+        "incorrecta3":"Vista"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Quién formuló la Teoría de la Relatividad?",
+        "respuesta":"Albert Einstein",
+        "incorrecta1":"Oscar Wilde",
+        "incorrecta2":"Charles Dickens",
+        "incorrecta3":"Edgar Allan Poe"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿En qué año cayó el muro de Berlín?",
+        "respuesta":"1989",
+        "incorrecta1":"1900",
+        "incorrecta2":"1980",
+        "incorrecta3":"1970"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuánto duró “La Guerra de los Cien Años”?",
+        "respuesta":"116",
+        "incorrecta1":"100",
+        "incorrecta2":"112",
+        "incorrecta3":"110"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Qué elemento de la tabla periódica tiene como símbolo He?",
+        "respuesta":"Helio",
+        "incorrecta1":"Hierro",
+        "incorrecta2":"Mercurio",
+        "incorrecta3":"Hidrógeno"
+
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cómo se llama el satélite más grande de Saturno?",
+        "respuesta":"Titan",
+        "incorrecta1":"Calisto",
+        "incorrecta2":"Ganimedes",
+        "incorrecta3":"Ío"
+
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el órgano más grande del cuerpo humano?",
+        "respuesta":"La piel",
+        "incorrecta1":"El corazón",
+        "incorrecta2":"Los pulmones",
+        "incorrecta3":"El intestino"
+
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el mineral más duro del planeta?",
+        "respuesta":"Diamante",
+        "incorrecta1":"Cobre",
+        "incorrecta2":"Cuarzo",
+        "incorrecta3":"Calcita"
+
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Qué descubrieron Marie Curie y su esposo Pierre?",
+        "respuesta":"La radioactividad",
+        "incorrecta1":"La gravedad",
+        "incorrecta2":"La evolución",
+        "incorrecta3":"La teoría de la relatividad"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Qué gas liberan las plantas al hacer la fotosíntesis?",
+        "respuesta":"Oxígeno",
+        "incorrecta1":"Dióxido de carbono",
+        "incorrecta2":"Nitrógeno",
+        "incorrecta3":"Helio"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuáles son los tres colores primarios?",
+        "respuesta":"Amarillo, azul y rojo",
+        "incorrecta1":"Azul, naranja y rojo",
+        "incorrecta2":"Azul, verde y amarillo",
+        "incorrecta3":"Rojo, verde y azul"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cómo se llama el estudio de los hongos?",
+        "respuesta":"Micología",
+        "incorrecta1":"Ecología",
+        "incorrecta2":"Botánica",
+        "incorrecta3":"Biología"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cómo se denomina el resultado de la multiplicación?",
+        "respuesta":"Producto",
+        "incorrecta1":"Resultado",
+        "incorrecta2":"Reactivo",
+        "incorrecta3":"Cociente"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cómo se llama el proceso por el cual las plantas obtienen alimento?",
+        "respuesta":"Fotosíntesis",
+        "incorrecta1":"Respiración",
+        "incorrecta2":"Translocación",
+        "incorrecta3":"Transpiración"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cómo se llama la energía contenida en el núcleo de los átomos?",
+        "respuesta":"Energía nuclear",
+        "incorrecta1":"Energía eólica",
+        "incorrecta2":"Energía radiante",
+        "incorrecta3":"Energía cinética"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿De qué color es es la bandera nacional de Francia?",
+        "respuesta":"Azul, blanco y rojo",
+        "incorrecta1":"Verde, blanco y rojo",
+        "incorrecta2":"Azul, verde y rojo",
+        "incorrecta3":"Blanco, azul y verde"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el metal precioso más valioso?",
+        "respuesta":" Paladio",
+        "incorrecta1":"Oro",
+        "incorrecta2":"Plata",
+        "incorrecta3":"Platino"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Quién fue el primer presidente de los Estados Unidos?",
+        "respuesta":"George Washington",
+        "incorrecta1":"Abraham Lincoln",
+        "incorrecta2":"Thomas Jefferson",
+        "incorrecta3":"John F. Kennedy"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el país más grande del mundo en términos de superficie?",
+        "respuesta":"Rusia",
+        "incorrecta1":"Canadá",
+        "incorrecta2":"Estados Unidos",
+        "incorrecta3":"China"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿En qué año se descubrió América?",
+        "respuesta":"1492",
+        "incorrecta1":"1500",
+        "incorrecta2":"1532",
+        "incorrecta3":"1620"
+
+    },
+
+     {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el idioma más hablado en el mundo?",
+        "respuesta":"Mandarín",
+        "incorrecta1":"Inglés",
+        "incorrecta2":"Español",
+        "incorrecta3":"Hindi"
+
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Quién escribió la obra de teatro 'Romeo y Julieta'?",
+        "respuesta": "William Shakespeare",
+        "incorrecta1":"Federico García Lorca",
+        "incorrecta2":"Miguel de Cervantes Saavedra",
+        "incorrecta3":"Oscar Wilde",
+        "imagen":"ryj.jpg"
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es la flor nacional de Japón?",
+        "respuesta":"Sakura (Cerezo)",
+        "incorrecta1":"Loto",
+        "incorrecta2":"Tulipán",
+        "incorrecta3":"Orquídea"
+    },
+
+    {
+        "categoria":"Cultura General",
+        "pregunta":"¿Cuál es el metal más abundante en la corteza terrestre?",
+        "respuesta":"Aluminio",
+        "incorrecta1":"Hierro",
+        "incorrecta2":"Cobre",
+        "incorrecta3":"Plata"
+    }
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+    
+
+    
+
+    
+
+    
+]

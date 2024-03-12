@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Moai Quiz</title>
+    <link rel="stylesheet" href="estiloPrincipal.css" >
+    <link rel="icon" href="logo.ico">
+    <script>
+        function fechaTR()
+        {
+            // Creamos array con los meses y dias en español
+            const meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+            const dias = ['Domingo', 'Lunes', 'martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+            //objeto de fecha
+            var fecha_ES = new Date();
+            //Seleccionar objeto de html
+            var fecha=document.getElementById("reloj");
+
+            //guardamos horas minutos y segundos en variables independientes
+            hora = fecha_ES.getHours()
+            minuto = fecha_ES.getMinutes()
+            segundo = fecha_ES.getSeconds()
+            //condición para mostrar hora, minutos y segundos de manera correcta
+            if(minuto<=9){
+                minuto="0"+minuto;
+            }
+            if(segundo<=9){
+                segundo="0"+segundo;
+            }
+            if(hora<=9){
+                hora="0"+hora;
+            }
+            //imprimir 
+            fecha.innerHTML=(dias[fecha_ES.getDay()] + ', ' + fecha_ES.getDate() + ' de ' + meses[fecha_ES.getMonth()] + ' de ' + fecha_ES.getUTCFullYear())+
+            "<br>"+"🕐"+hora + " : " + minuto + " : " + segundo+"🕐";
+        }
+
+
+        //CÓDIGO HECHO POR CARMEN ANDREA LARA OSUNA ******************************************************************************
+        function mostrarPro(){
+            proposito=document.getElementById('proposito');
+            proposito.innerHTML="Tenemos como propósito crear un sitio web para estudiantes de bachillerato como herramienta de reforzamiento y entretenimiento.";   
+               
+        }
+
+        function mostrarQn(){
+            qnsomos=document.getElementById('qnsomos');
+            qnsomos.innerHTML="Somos un grupo de estudiantes del CBTis No. 37, parte de la especialidad de programación. Cursando la materia 'Desarrolla Aplicaciones que se Ejecutan en el Cliente'";   
+               
+        }
+
+        function link(){
+            document.getElementById('reporte').style.color="#b53c3c";
+        }
+        
+    </script>
+</head>
+<body>
+
+    <div class="parent">
+
+        <header>
+            <div class="logo">
+                <img src="https://i.pinimg.com/originals/74/ce/d9/74ced99e1160ba3f3ca22a95c4a1c879.png" width="80px">
+    
+            </div>
+            <nav>
+                <a href="#1">Propósito</a>
+            
+                <a href="#2">¿Quiénes somos?</a>
+        
+                <a href="#3">Reporte</a>
+            </nav>
+                 
+        </header>
+        
+        
+        <div class="div8"> 
+           Trivia del Conocimiento
+        </div>
+        <div class="mensaje">
+            Seleccione la categoria de su elección para comenzar
+        </div>
+        <div class="div10" > 
+            <form action="triviaCG.html">
+                <button class="categoria" id="culturaG" > </button>
+            </form>
+            <form action="triviaP.html">
+                <button class="categoria" id="programación"> </button>
+            </form>
+            <form action="triviaQ.html">
+                <button class="categoria" id="quimica"> </button>
+            </form>
+            <form action="triviaIn.html">
+                <button class="categoria" id="Ingles"> </button>
+            </form>
+        </div>
+        
+        <div  id="miniJuego">
+            <form  action="minijuego.html">
+                <button class="mini" id="miniJuego" type="submit"> </button>
+            </form>
+        </div>   
+    
+    </div>
+
+    <div class="contenido">
+        <h2 id="1" onclick="mostrarPro()">Propósito</h2><br>
+        <p id="proposito">
+            
+        </p>
+        <br><br>
+        <h2 id="2" onclick="mostrarQn()">¿Quiénes somos?</h2><br>
+        <p id="qnsomos">
+
+        </p>
+        <br><br>
+        <h2 id="3">Reporte</h2><br>
+        <p>
+            <a href="Reporte del proyecto.pdf" download="Reporte" onmouseover="link()"  id="reporte">
+                Descargar reporte de prototipo
+            </a>
+        </p>
+        <br><br>
+    </div>
+    <div class="div11" id="reloj"></div> 
+
+    <script>
+        fechaTR();
+        setInterval(fechaTR, 1000);
+    </script>
+</body>
+</html>                                                                                                                     

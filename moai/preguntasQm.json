@@ -1,0 +1,375 @@
+[
+	{
+		"categoria":"Química",
+		"pregunta":"¿Cuántos elementos químicos hay en la tabla periódica?",
+		"respuesta":"En la tabla periódica actualmente hay 118 elementos químicos conocidos.",
+		"incorrecta1":"En la tabla periódica actualmente hay 92 elementos químicos conocidos.",
+		"incorrecta2":"En la tabla periódica actualmente hay 105 elementos químicos conocidos.",
+		"incorrecta3":"En la tabla periódica actualmente hay 136 elementos químicos conocidos."
+	},
+	{
+		"categoria":"Química",
+		"pregunta":"¿Qué es un compuesto químico?",
+		"respuesta":"Un compuesto químico es una sustancia pura compuesta por átomos de dos o más elementos diferentes.",
+		"incorrecta1":"Un compuesto químico es una mezcla homogénea de elementos químicos.",
+		"incorrecta2":"Un compuesto químico es una sustancia compuesta únicamente por un elemento químico.",
+		"incorrecta3":"Un compuesto químico es una sustancia que no se puede descomponer en otros elementos."
+	},
+	{
+		"categoria":"Química",
+		"pregunta":"¿Cuál es la fórmula química del agua?",
+		"respuesta":"La fórmula química del agua es H2O.",
+		"incorrecta1":"La fórmula química del agua es CO2.",
+		"incorrecta2":"La fórmula química del agua es NaCl.",
+		"incorrecta3":"La fórmula química del agua es C6H12O6."
+	},
+	{
+		"categoria":"Química",
+		"pregunta":"¿Cuál es el número atómico del hidrógeno?",
+		"respuesta":"El número atómico del hidrógeno es 1.",
+		"incorrecta1":"El número atómico del hidrógeno es 2.",
+		"incorrecta2":"El número atómico del hidrógeno es 3.",
+		"incorrecta3":"El número atómico del hidrógeno es 4."
+	},
+	{
+		"categoria":"Química", 
+		"pregunta":"¿Como se llama el cambio de estado gaseoso a solido, sin pasar por lo liquido?",
+		"respuesta":"Sublimación regresiva o inversa",
+		"incorrecta1":"Sublimación progresiva", 
+		"incorrecta2":"Derretimiento", 
+		"incorrecta3":"Condensación" 
+	},
+	{
+		"categoria":"Química", 
+		"pregunta":"Un átomo se compone por:",
+		"respuesta":"Protones, neutrones y electrones",
+		"incorrecta1":"Legos y bolas", 
+		"incorrecta2":"Fotones, glucones y fermiones", 
+		"incorrecta3":"Isótopos y elementos" 
+	},
+	{
+		"categoria":"Química", 
+		"pregunta":"¿Cuales son los estados de la materia?",
+		"respuesta":"Gaseoso, liquido y solido",
+		"incorrecta1":"Congelado, acuoso y vapor", 
+		"incorrecta2":"Átomo, molécula y compuesto", 
+		"incorrecta3":"homogéneo y heterogéneo" 
+	},
+	{
+		"categoria":"Química", 
+		"pregunta":"¿Qué es la materia?",
+		"respuesta":"Todo lo que ocupa un lugar en el espacio",
+		"incorrecta1":"Todo lo que refleja", 
+		"incorrecta2":"Algo que se ve", 
+		"incorrecta3":"Nada" 
+	},
+	{
+		"categoria":"Química", 
+		"pregunta":"¿Cuál es la fórmula química del dioxido de carbono?",
+		"respuesta":"CO2",
+		"incorrecta1":"H2O", 
+		"incorrecta2":"S2HO3", 
+		"incorrecta3":"NA2H3" 
+	},
+	{
+		"categoria":"Química", 
+		"pregunta":"¿Por qué la materia no se destruye pero si se transforma?",
+		"respuesta":"Debido a que está compuesta de atomos",
+		"incorrecta1":"Por la dureza de la materia", 
+		"incorrecta2":"Si es posible destruir la materia", 
+		"incorrecta3":"Porque nosotros la volvemos a construir" 
+	},
+
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es un ácido?",
+		"respuesta": "Un ácido es una sustancia que libera iones de hidrógeno en solución acuosa.",
+		"incorrecta1": "Un ácido es una sustancia que libera iones de oxígeno en solución acuosa.",
+		"incorrecta2": "Un ácido es una sustancia que neutraliza bases en solución acuosa.",
+		"incorrecta3": "Un ácido es una sustancia que se disuelve en agua sin reaccionar."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es una base?",
+		"respuesta": "Una base es una sustancia que acepta iones de hidrógeno en solución acuosa.",
+		"incorrecta1": "Una base es una sustancia que libera iones de oxígeno en solución acuosa.",
+		"incorrecta2": "Una base es una sustancia que neutraliza ácidos en solución acuosa.",
+		"incorrecta3": "Una base es una sustancia que se disuelve en agua sin reaccionar."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es un enlace iónico?",
+		"respuesta": "Un enlace iónico es la unión entre átomos de diferente carga eléctrica mediante la transferencia de electrones.",
+		"incorrecta1": "Un enlace iónico es la unión entre átomos de igual carga eléctrica mediante la transferencia de electrones.",
+		"incorrecta2": "Un enlace iónico es la unión entre átomos mediante el intercambio de protones.",
+		"incorrecta3": "Un enlace iónico es la unión entre átomos mediante el intercambio de neutrones."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Cuál es la unidad básica de la materia?",
+		"respuesta": "El átomo",
+		"incorrecta1": "La molécula",
+		"incorrecta2": "El elemento",
+		"incorrecta3": "El electrón"
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Cuál es el número atómico del hidrógeno?",
+		"respuesta": "1",
+		"incorrecta1": "2",
+		"incorrecta2": "3",
+		"incorrecta3": "4"
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es una reacción química?",
+		"respuesta": "Una reacción química es un proceso en el que las sustancias se transforman en otras sustancias diferentes.",
+		"incorrecta1": "Una reacción química es un proceso en el que las sustancias se combinan para formar una sustancia más compleja.",
+		"incorrecta2": "Una reacción química es un proceso en el que las sustancias se separan en sus componentes más simples.",
+		"incorrecta3": "Una reacción química es un proceso en el que las sustancias cambian de estado físico sin transformarse en otras sustancias."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es el pH y qué rango indica una sustancia ácida?",
+		"respuesta": "El pH es una medida de acidez o alcalinidad de una solución. Un rango de pH menor a 7 indica una sustancia ácida.",
+		"incorrecta1": "El pH es una medida de concentración de protones en una solución. Un rango de pH mayor a 7 indica una sustancia ácida.",
+		"incorrecta2": "El pH es una medida de concentración de electrones en una solución. Un rango de pH mayor a 7 indica una sustancia ácida.",
+		"incorrecta3": "El pH es una medida de temperatura de una solución. Un rango de pH menor a 7 indica una sustancia ácida."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+		"respuesta": "Nitrógeno",
+		"incorrecta1": "Oxígeno",
+		"incorrecta2": "Dióxido de carbono",
+		"incorrecta3": "Hidrógeno"
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es un isótopo?",
+		"respuesta": "Un isótopo es una variante de un átomo que tiene el mismo número de protones pero diferente número de neutrones.",
+		"incorrecta1": "Un isótopo es una variante de un átomo que tiene el mismo número de protones pero diferente número de electrones.",
+		"incorrecta2": "Un isótopo es una variante de un átomo que tiene el mismo número de neutrones pero diferente número de protones.",
+		"incorrecta3": "Un isótopo es una variante de un átomo que tiene el mismo número de electrones pero diferente número de neutrones."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es la ley de conservación de la masa?",
+		"respuesta": "La ley de conservación de la masa establece que la masa total de los reactivos en una reacción química es igual a la masa total de los productos.",
+		"incorrecta1": "La ley de conservación de la masa establece que la masa total de los reactivos en una reacción química es mayor que la masa total de los productos.",
+		"incorrecta2": "La ley de conservación de la masa establece que la masa total de los reactivos en una reacción química es menor que la masa total de los productos.",
+		"incorrecta3": "La ley de conservación de la masa establece que la masa total de los reactivos en una reacción química es diferente a la masa total de los productos."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Cuál es el elemento químico más pesado en la tabla periódica?",
+		"respuesta": "Oganesón (Og)",
+		"incorrecta1": "Plutonio (Pu)",
+		"incorrecta2": "Oro (Au)",
+		"incorrecta3": "Plomo (Pb)"
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es un electrón?",
+		"respuesta": "Un electrón es una partícula subatómica con carga negativa que orbita alrededor del núcleo de un átomo.",
+		"incorrecta1": "Un electrón es una partícula subatómica con carga positiva que orbita alrededor del núcleo de un átomo.",
+		"incorrecta2": "Un electrón es una partícula subatómica sin carga que orbita alrededor del núcleo de un átomo.",
+		"incorrecta3": "Un electrón es una partícula subatómica con carga negativa que se encuentra en el núcleo de un átomo."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es la densidad de un material?",
+		"respuesta": "La densidad de un material es su masa por unidad de volumen.",
+		"incorrecta1": "La densidad de un material es su masa dividida por su volumen.",
+		"incorrecta2": "La densidad de un material es su volumen dividido por su masa.",
+		"incorrecta3": "La densidad de un material es su masa multiplicada por su volumen."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es un compuesto químico?",
+		"respuesta": "Un compuesto químico es una sustancia formada por la combinación de dos o más elementos en proporciones definidas.",
+		"incorrecta1": "Un compuesto químico es una sustancia formada por la combinación de dos o más elementos en proporciones variables.",
+		"incorrecta2": "Un compuesto químico es una sustancia formada por la combinación de dos o más elementos en cualquier proporción.",
+		"incorrecta3": "Un compuesto químico es una sustancia formada por la combinación de un elemento con una mezcla de otros elementos."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Cuál es el proceso de convertir un sólido en gas sin pasar por el estado líquido?",
+		"respuesta": "Sublimación",
+		"incorrecta1": "Evaporación",
+		"incorrecta2": "Fusión",
+		"incorrecta3": "Condensación"
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Cuál es la fórmula química del dióxido de carbono?",
+		"respuesta": "CO2",
+		"incorrecta1": "CO",
+		"incorrecta2": "CO3",
+		"incorrecta3": "COH"
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Qué es la temperatura de ebullición de una sustancia?",
+		"respuesta": "La temperatura de ebullición de una sustancia es la temperatura a la cual la sustancia pasa del estado líquido al estado gaseoso.",
+		"incorrecta1": "La temperatura de ebullición de una sustancia es la temperatura a la cual la sustancia pasa del estado gaseoso al estado líquido.",
+		"incorrecta2": "La temperatura de ebullición de una sustancia es la temperatura a la cual la sustancia pasa del estado sólido al estado líquido.",
+		"incorrecta3": "La temperatura de ebullición de una sustancia es la temperatura a la cual la sustancia pasa del estado líquido al estado sólido."
+	},
+	{
+		"categoria": "Química",
+		"pregunta": "¿Cuál es el número de valencia de un átomo de calcio?",
+		"respuesta": "2",
+		"incorrecta1": "1",
+		"incorrecta2": "3",
+		"incorrecta3": "4"
+	},
+	{
+    		"categoria": "Química",
+            "pregunta": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+            "respuesta": "Oxígeno",
+            "incorrecta1": "Hierro",
+            "incorrecta2": "Silicio",
+            "incorrecta3": "Aluminio"
+        },
+        {
+            "pregunta": "¿Cuál es el símbolo químico del hierro?",
+            "respuesta": "Fe",
+            "incorrecta1": "H",
+            "incorrecta2": "Ir",
+            "incorrecta3": "Au"
+        },
+        {
+            "pregunta": "¿Cuántos electrones tiene un átomo neutro de oxígeno?",
+            "respuesta": "8",
+            "incorrecta1": "6",
+            "incorrecta2": "7",
+            "incorrecta3": "9"
+        },
+        {
+            "pregunta": "¿Cuál es la masa atómica del carbono?",
+            "respuesta": "12.01",
+            "incorrecta1": "14.01",
+            "incorrecta2": "16.00",
+            "incorrecta3": "10.81"
+        },
+        {
+            "pregunta": "¿Cuál es el estado de agregación del bromo a temperatura ambiente?",
+            "respuesta": "Líquido",
+            "incorrecta1": "Sólido",
+            "incorrecta2": "Gas",
+            "incorrecta3": "Plasma"
+        },
+        {
+            "pregunta": "¿Cuál es el número de protones en el núcleo de un átomo de nitrógeno?",
+            "respuesta": "7",
+            "incorrecta1": "6",
+            "incorrecta2": "8",
+            "incorrecta3": "9"
+        },
+        {
+            "pregunta": "¿Cuál es el proceso químico en el que un sólido pasa directamente al estado gaseoso sin pasar por el líquido?",
+            "respuesta": "Sublimación",
+            "incorrecta1": "Fusión",
+            "incorrecta2": "Ebullición",
+            "incorrecta3": "Condensación"
+        },
+        {
+            "pregunta": "¿Cuál es el símbolo químico del sodio?",
+            "respuesta": "Na",
+            "incorrecta1": "So",
+            "incorrecta2": "Mg",
+            "incorrecta3": "K"
+        },
+        {
+            "pregunta": "¿Cuál es el nombre común del ácido clorhídrico?",
+            "respuesta": "Cloruro de hidrógeno",
+            "incorrecta1": "Ácido sulfúrico",
+            "incorrecta2": "Ácido nítrico",
+            "incorrecta3": "Ácido acético"
+        },
+        {
+            "pregunta": "¿Cuál es el elemento químico más ligero en la tabla periódica?",
+            "respuesta": "Hidrógeno",
+            "incorrecta1": "Helio",
+            "incorrecta2": "Litio",
+            "incorrecta3": "Carbono"
+        },
+        {
+            "pregunta": "¿Cuántos átomos de oxígeno hay en una molécula de dióxido de carbono?",
+            "respuesta": "2",
+            "incorrecta1": "1",
+            "incorrecta2": "3",
+            "incorrecta3": "4"
+        },
+        {
+            "pregunta": "¿Cuál es el número atómico del helio?",
+            "respuesta": "2",
+            "incorrecta1": "1",
+            "incorrecta2": "3",
+            "incorrecta3": "4"
+        },
+        {
+            "pregunta": "¿Cuál es el estado de agregación del nitrógeno a temperatura ambiente?",
+            "respuesta": "Gas",
+            "incorrecta1": "Sólido",
+            "incorrecta2": "Líquido",
+            "incorrecta3": "Plasma"
+        },
+        {
+            "pregunta": "¿Cuál es el símbolo químico del potasio?",
+            "respuesta": "K",
+            "incorrecta1": "P",
+            "incorrecta2": "Pt",
+            "incorrecta3": "Po"
+        },
+        {
+            "pregunta": "¿Cuántos electrones tiene un átomo neutro de sodio?",
+            "respuesta": "11",
+            "incorrecta1": "10",
+            "incorrecta2": "12",
+            "incorrecta3": "9"
+        },
+        {
+            "pregunta": "¿Cuál es el proceso químico en el que un líquido pasa al estado gaseoso?",
+            "respuesta": "Vaporización",
+            "incorrecta1": "Solidificación",
+            "incorrecta2": "Sublimación",
+            "incorrecta3": "Fusión"
+        },
+        {
+            "pregunta": "¿Cuál es el símbolo químico del cloro?",
+            "respuesta": "Cl",
+            "incorrecta1": "Cr",
+            "incorrecta2": "Co",
+            "incorrecta3": "Cn"
+        },
+        {
+            "pregunta": "¿Cuál es la masa atómica del hidrógeno?",
+            "respuesta": "1.008",
+            "incorrecta1": "12.01",
+            "incorrecta2": "14.01",
+            "incorrecta3": "16.00"
+        },
+        {
+            "pregunta": "¿Cuál es el número de protones en el núcleo de un átomo de litio?",
+            "respuesta": "3",
+            "incorrecta1": "2",
+            "incorrecta2": "4",
+            "incorrecta3": "1"
+        },
+        {
+            "pregunta": "¿Cuál es el elemento químico más pesado en la tabla periódica?",
+            "respuesta": "Oganesson",
+            "incorrecta1": "Uranio",
+            "incorrecta2": "Plutonio",
+            "incorrecta3": "Osmio"
+        },
+        {
+            "pregunta": "¿Cuál es el número de valencia de un átomo de calcio?",
+            "respuesta": "2",
+            "incorrecta1": "1",
+            "incorrecta2": "3",
+            "incorrecta3": "4"
+        }
+]

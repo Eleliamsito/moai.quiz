@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Inglés</title>
+    <link rel="stylesheet" href="estiloTrivias.css">
+    <link rel="icon" href="logo.ico">
+    <script>
+        function fechaTR()
+        {
+            // Creamos array con los meses y dias en español
+            const meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+            const dias = ['Domingo', 'Lunes', 'martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
+            //objeto de fecha
+            var fecha_ES = new Date();
+            //Seleccionar onjeto de html
+            var fecha=document.getElementById("reloj");
+
+            //guardamos horas minutos y segundos en variables independientes
+            hora = fecha_ES.getHours()
+            minuto = fecha_ES.getMinutes()
+            segundo = fecha_ES.getSeconds()
+            //condición para mostrar hora, minutos y segundos de manera correcta
+            if(minuto<=9){
+                minuto="0"+minuto;
+            }
+            if(segundo<=9){
+                segundo="0"+segundo;
+            }
+            if(hora<=9){
+                hora="0"+hora;
+            }
+            //imprimir 
+            fecha.innerHTML=(dias[fecha_ES.getDay()] + ', ' + fecha_ES.getDate() + ' de ' + meses[fecha_ES.getMonth()] + ' de ' + fecha_ES.getUTCFullYear())+
+            "<br>"+"🕐"+hora + " : " + minuto + " : " + segundo+"🕐";
+        }
+    </script>
+</head>
+<body>
+    
+    <div class="regresar" >  
+        <form method="get" action="index.html">
+            <button type="submit" class="boton"> 🢀 Regresar a principal</button>
+        </form>
+    
+    </div>
+
+    <div class="parent">
+        <div class="puntaje" id="puntaje">puntaje</div>
+        <div class="encabezado">
+          <div class="categoria" id="categoria">
+            categoria 
+          </div>
+          <div class="numero" id="numero">numero</div>
+          <div class="pregunta" id="pregunta">
+            pregunta
+          </div>
+          <img src="#" class="imagen" id="imagen">
+        </div>
+        
+    <br>
+    <div class="opciones1">
+        <div class="btn" id="btn1" onclick="click_btn(0)">1</div>  
+        <div class="btn" id="btn2" onclick="click_btn(1)">2</div>
+    </div>
+    <div class="opciones2">
+        <div class="btn" id="btn3" onclick="click_btn(2)">3</div>
+        <div class="btn" id="btn4" onclick="click_btn(3)">4</div>
+    </div>
+    <br><br><br>
+    <div id="reloj"></div>
+    <script src="jsIn.js"></script>
+    </div>
+</body>
+</html>

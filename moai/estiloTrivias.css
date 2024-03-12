@@ -1,0 +1,138 @@
+*{
+    transition: all 0.3s;
+    
+}
+
+
+@font-face {
+    font-family: 'arial narrow';
+    src: url("Arial\ Narrow.ttf");
+    
+}
+
+body{
+    background-color: rgb(90, 90, 95);
+    overflow-x: hidden;
+    font-family: arial narrow;
+    font-size: xx-large;
+   
+}
+.parent{
+    width: 100vw;
+    height: 95vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: arial narrow;
+    font-size: xx-large;
+    
+    
+}
+.encabezado{
+    position: relative;
+    background: white;
+    min-width: 20%;
+    width: 70%;
+    max-width: 90%;
+    padding: 3%;
+    border-radius: 10px;
+    font-size: 90%;
+}
+.categoria {
+    opacity: 0.3;
+    text-align: left;
+}
+
+.pregunta {
+    padding: 10px;
+    font-size: 150%;
+    text-align: center;
+}
+
+.imagen {
+    object-fit: scale-down;
+    height: 0px;
+    width: 0px;
+}
+
+.opciones1{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin: 1%;
+    max-width:90%;
+    justify-content: center;
+    text-align: center;
+}
+.opciones2{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    margin: .5%;
+    max-width:90%;
+    justify-content: center;
+    text-align: center;
+}
+.btn{
+    font-size: 120%;
+    background-color: aliceblue;
+    box-shadow: 0 5px 0 rgb(214, 219, 223);
+    border-radius: 10px;
+    padding: 30px 40px;
+    
+}
+
+.btn:active{
+    box-shadow: none;
+    transform: translateY(5px);
+}
+.btn:hover {
+    background-color:#82c1db ;
+    box-shadow: 0 5px 0 #709aac;
+    cursor: pointer;
+}
+.boton{
+    
+    align-content: left;
+    font-family: arial narrow;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 70%;
+    background-color: #f3e8bb;
+    box-shadow: 0 5px 0 #c9c1a0;
+    border: none;
+}
+.boton:active{
+    box-shadow: none;
+    transform: translateY(5px);
+}
+.boton:hover {
+    background-color:#FFE066 ;
+    box-shadow: 0 5px 0 #e1c75f;
+    cursor: pointer;
+}
+.puntaje{
+    padding:10px;
+    color:white;
+    opacity: 0.3;
+    font-size: 80%;
+ }
+
+ .numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+}
+
+#reloj{
+    background-color: #c2c2c2;
+    padding: 10px;
+    text-align: center;
+    font-family: arial narrow;
+    font-size: 50%;
+    text-transform: capitalize;
+    width: 100%;
+    margin: 0%;
+}

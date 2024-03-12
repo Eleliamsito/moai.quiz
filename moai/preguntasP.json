@@ -1,0 +1,330 @@
+[
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cuál es el primer paso para desarrollar?",
+        "respuesta" : "Definir",
+        "incorrecta1": "Planificar", 
+        "incorrecta2": "Programar", 
+        "incorrecta3": "No hay pasos"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es diagrama de flujo?",
+        "respuesta" : "Representación gráfica de un algoritmo",
+        "incorrecta1": "Listado de pasos a seguir", 
+        "incorrecta2": "Un paradigma de programación", 
+        "incorrecta3": "Muestra la trayectoria del agua"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cual de los siguientes no es un lenguaje de programación web?",
+        "respuesta" : "Excel",
+        "incorrecta1": "HTML", 
+        "incorrecta2": "PHP", 
+        "incorrecta3": "SQL"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es una variable en programación?",
+        "respuesta" : "Objeto utilizado para almacenar datos o valores",
+        "incorrecta1": "Herramienta para medir la eficiencia", 
+        "incorrecta2": "Función matemática", 
+        "incorrecta3": "Un error"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué significa el acrónimo SQL?",
+        "respuesta" : "Structured Query Language ",
+        "incorrecta1": "Sistema de Calidad y Logística", 
+        "incorrecta2": "Servicio de Consultoría Legal", 
+        "incorrecta3": "Sintaxis de Código Libre"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es un paradigma de programación?",
+        "respuesta" : "Una forma resolver problemas en programación",
+        "incorrecta1": "Un programa desarrollado por una sola persona", 
+        "incorrecta2": "Un archivo que contiene documentación de un proyecto", 
+        "incorrecta3": "Una herramienta para depurar código"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cuál es el propósito de un compilador en programación?",
+        "respuesta" : "Traducir el código fuente a un lenguaje entendido por la computadora",
+        "incorrecta1": "Optimizar la velocidad de ejecución de un programa", 
+        "incorrecta2": " Detectar y corregir errores en el código", 
+        "incorrecta3": "Realizar pruebas de rendimiento de un programa"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es un repositorio en el contexto de control de versiones?",
+        "respuesta" : "Lugar donde se almacenan los archivos de un proyecto y su historial",
+        "incorrecta1": "Un programa para probar la seguridad de un sistema", 
+        "incorrecta2": "Un servicio de almacenamiento en la nube", 
+        "incorrecta3": "Un tipo de base de datos relacional"
+    },
+
+    
+    {
+        "categoria": "Programación",
+        "pregunta": "Etapa para resolver problemas en la cual se deben generar caminos diversos y creativos",
+        "respuesta" : "Planteamiento de alternativas de solución",
+        "incorrecta1": "Diseño de algoritmos", 
+        "incorrecta2": "Desarrollo de la solución", 
+        "incorrecta3": "Identificación del problema"
+    },
+
+     {
+        "categoria": "Programación",
+        "pregunta": "Son nombres de variables validos, excepto:",
+        "respuesta" : "Nombre Alumno",
+        "incorrecta1": "NombreAlumno", 
+        "incorrecta2": "Nombre1", 
+        "incorrecta3": "Nombre_Almuno"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cuál es el nombre de la condición siguiente?",
+        "respuesta" : "If-Else",
+        "incorrecta1": "Switch-Case", 
+        "incorrecta2": "Condición bucle", 
+        "incorrecta3": "For",
+        "imagen":"imagen_Condicion.jpeg"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "Algoritmos que usa figuras para representar los pasos",
+        "respuesta" : "Diagrama de flujo",
+        "incorrecta1": "Algoritmo numérico", 
+        "incorrecta2": "Algoritmo no numérico", 
+        "incorrecta3": "Pseudocódigo"
+    },
+     
+    {
+        "categoria": "Programación",
+        "pregunta": "Se puede considerar como una situación en la que se plantea una tarea o interrogante que se trata de resolver",
+        "respuesta" : "Algoritmo",
+        "incorrecta1": "Diagrama", 
+        "incorrecta2": "Problema", 
+        "incorrecta3": "Solución"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "Observa la imagen y relaciona las fases de la metodología de solución de problemas con su desarrollo.",
+        "respuesta" : "1B,2A,3E,4C,5D",
+        "incorrecta1": "1D, 2E,3B,4A,5C", 
+        "incorrecta2": "1E,2A,3B,4C,5D", 
+        "incorrecta3": "1B, 2E,3D,4C,5A",
+        "imagen":"algoritmo.jpg"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué etiqueta utilizamos para definir el cuerpo del documento?",
+        "respuesta" : "body",
+        "incorrecta1": "background", 
+        "incorrecta2": "b", 
+        "incorrecta3": "big"
+    },
+
+   
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué etiqueta define un salto de línea?",
+        "respuesta" : "br",
+        "incorrecta1": "break", 
+        "incorrecta2": "linebreak", 
+        "incorrecta3": "p"
+    }, 
+
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Con qué símbolo se debe empezar el nombre de una variable en PHP?",
+        "respuesta" : "$",
+        "incorrecta1": "!", 
+        "incorrecta2": "/", 
+        "incorrecta3": "=="
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": " ¿Qué tipo de valor se obtiene al evaluar una expresión con operadores relacionales?",
+        "respuesta" : "Boolean",
+        "incorrecta1": "String", 
+        "incorrecta2": "valor numérico", 
+        "incorrecta3": "ninguno de los anteriores"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": "Función para escribir texto con formato en PHP",
+        "respuesta" : "echo",
+        "incorrecta1": "printf()", 
+        "incorrecta2": "trace()", 
+        "incorrecta3": "write()"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cuál es la salida de este programa?",
+        "respuesta" : "El mayor es 8",
+        "incorrecta1": "El mayor es 10", 
+        "incorrecta2": "El mayor es b", 
+        "incorrecta3": "El mayor es a",
+        "imagen":"codigo.jpeg"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué significa la sigla DOM dentro de la programación?",
+        "respuesta" : "Document Object Model",
+        "incorrecta1": "Deo optimo maximo", 
+        "incorrecta2": "No tiene significado", 
+        "incorrecta3": "Documento obstruido por el ministerio"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "Significado de WWW",
+        "respuesta" : "World Wide Web",
+        "incorrecta1": "World Wide Waffles", 
+        "incorrecta2": "willson william walter", 
+        "incorrecta3": "web word wrong",
+        "imagen": "www.jpg"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cuál es el uso de la siguiente figura en DF?",
+        "respuesta" : "Entrada/Salida",
+        "incorrecta1": "Blucle", 
+        "incorrecta2": "Inicio", 
+        "incorrecta3": "No existe",
+        "imagen":"entrada-salida.jpg"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cuál es el uso de la siguiente figura en DF?",
+        "respuesta" : "Inicio/Final",
+        "incorrecta1": "Blucle", 
+        "incorrecta2": "Entrada", 
+        "incorrecta3": "No existe",
+        "imagen":"inicio.jpg"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Cuál es el uso de la siguiente figura en DF?",
+        "respuesta" : "Decisión",
+        "incorrecta1": "Blucle", 
+        "incorrecta2": "Entrada", 
+        "incorrecta3": "No existe",
+        "imagen":"Decisión.jpg"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": " ¿Cuál de los siguientes no es un tipo de programación?",
+        "respuesta" : "Programación diseñada",
+        "incorrecta1": "Programación orientada a objetos", 
+        "incorrecta2": "Programación estructurada", 
+        "incorrecta3": "Programación de eventos"
+    }, 
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es un bucle 'for'?",
+        "respuesta" : "Estructura que ejecuta un bloque un número específico de veces.",
+        "incorrecta1": "Un operador utilizado para concatenar cadenas de texto", 
+        "incorrecta2": "Una función para imprimir resultados en la consola", 
+        "incorrecta3": " Una instrucción para salir del programa abruptamente"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es un lenguaje de programación de alto nivel?",
+        "respuesta": "Un lenguaje que se acerca al lenguaje humano y es más fácil",
+        "incorrecta1": "Un lenguaje utilizado exclusivamente para programar hardware",
+        "incorrecta2": "Un lenguaje específico para la programación web",
+        "incorrecta3": "Un lenguaje que solo puede ser interpretado por máquinas"
+    },
+        
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es un 'bug' en programación?",
+        "respuesta": "Un error o defecto en un programa no deseado.",
+        "incorrecta1": "Un método para optimizar el rendimiento de un programa",
+        "incorrecta2": "Un término utilizado para describir programas muy grandes",
+        "incorrecta3": "Una técnica para proteger el código fuente de un programa"
+    },
+        
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es la programación orientada a objetos?",
+        "respuesta": "Un paradigma de programación que organiza el código en objetos ",
+        "incorrecta1": "Una técnica exclusivamente interfaces gráficas de usuario",
+        "incorrecta2": "Método para programar de forma lineal sin utilizar funciones",
+        "incorrecta3": "Enfoque de programación utilizado en sistemas operativos"
+    },
+        
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es Git?",
+        "respuesta": "Un sistema de control de versiones ampliamente utilizado en desarrollo de software.",
+        "incorrecta1": "Un lenguaje de programación para inteligencia artificial",
+        "incorrecta2": "Una plataforma de redes sociales para programadores",
+        "incorrecta3": "Un tipo de base de datos relacional"
+    },
+        
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es un 'framework' en programación?",
+        "respuesta": "Estructura predefinida que proporciona funcionalidades para facilitar el desarrollo.",
+        "incorrecta1": "Una herramienta para generar documentación de proyectos",
+        "incorrecta2": "Una técnica para optimizar el rendimiento de un programa",
+        "incorrecta3": "Un método para cifrar y proteger datos sensibles",
+        "imagen": "framework.png"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es una API?",
+        "respuesta": "Interfaz de programación que permite la comunicación entre software",
+        "incorrecta1": "Un tipo de dato utilizado para representar números reales",
+        "incorrecta2": "Una técnica para depurar errores en el código",
+        "incorrecta3": "Un método para encriptar y proteger datos sensibles"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es CSS?",
+        "respuesta": "Lenguaje utilizado para dar estilo y diseño a páginas web",
+        "incorrecta1": "Un lenguaje de programación utilizado para el análisis de datos",
+        "incorrecta2": "Una herramienta para realizar consultas en bases de datos",
+        "incorrecta3": "Un protocolo de comunicación utilizado para transferir archivos"
+    },
+
+    {
+        "categoria": "Programación",
+        "pregunta": "¿Qué es Git?",
+        "respuesta": "Un sistema de control de versiones utilizado en desarrollo de software",
+        "incorrecta1": "Un lenguaje de programación para inteligencia artificial",
+        "incorrecta2": "Una plataforma de redes sociales para programadores",
+        "incorrecta3": "Un tipo de base de datos relacional"
+    }
+
+
+
+]

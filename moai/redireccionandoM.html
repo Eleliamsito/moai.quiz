@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Redireccionando</title>
+    <link rel="icon" href="logo.ico">
+    <style>
+        *{
+            transition: 0.5s;
+            font-family: 'fuente3';
+        }
+        @font-face {
+         font-family: fuente3;
+         src: url(VCRosdNEUE.ttf);
+}
+        body{
+            background-color: rgb(28, 27, 32);
+           
+        }
+        .parent{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin: 8% auto;
+
+        }
+        #mensaje{
+            
+            font-size: 480%;
+            color: aliceblue;
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+        }
+        button{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 600px;
+            height: 200px;
+            box-shadow:0 0 15px rgba(0, 0, 0, 0.5), 0 0 10px rgba(102, 102, 102, 0.5), 2px 2px 2px rgba(206,206,206,0);
+            margin: 20px;
+            border-radius: 20px;
+            border: none;
+            font-size: 300%;
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+        }
+        button:hover{
+            scale: 103%;
+            
+        }
+        #inicio{
+            background-color: rgb(71, 69, 82);
+            color: aliceblue;
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+        }
+        #regresar{
+            background-color: rgb(170, 162, 159);
+            color: rgb(50, 50, 50);
+            text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+            
+        }
+        #puntuacion{
+            font-size: 320%;
+            color: aliceblue;
+            background-color: rgb(212, 52, 52);
+            box-shadow:0 0 15px rgba(254, 254, 254, 0.5), 0 0 10px rgba(102, 102, 102, 0.5), 2px 2px 2px rgba(206,206,206,0);
+            border-radius: 15px;
+            text-align: center;
+            padding: 1%;
+        }
+    </style>
+</head>
+<body>
+    <div class="parent">
+        <div id="mensaje">EL TIEMPO SE HA ACABADO
+        </div>
+        <br>
+        <div id="puntuacion"></div>
+        <br>
+        <div id="botones">
+            <button id="inicio" onclick="window.location.href='minijuego.html'">IR AL INICIO </button>
+            
+        </div>
+    </div>
+    <script>
+        var puntaje=sessionStorage.getItem('puntaje');
+        document.getElementById('puntuacion').innerHTML="PUNTUACIÓN: "+puntaje;
+    </script>
+</body>
+</html>

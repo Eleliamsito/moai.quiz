@@ -1,0 +1,366 @@
+[
+    {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es la forma correcta del verbo 'to be' en tercera persona del singular en tiempo presente?",
+        "respuesta": "is",
+        "incorrecta1": "am",
+        "incorrecta2": "are",
+        "incorrecta3": "be"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el comparativo de 'good'?",
+        "respuesta": "better",
+        "incorrecta1": "gooder",
+        "incorrecta2": "more good",
+        "incorrecta3": "best"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el opuesto de la palabra 'happy'?",
+        "respuesta": "sad",
+        "incorrecta1": "angry",
+        "incorrecta2": "funny",
+        "incorrecta3": "tired"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el pasado simple del verbo 'go'?",
+        "respuesta": "went",
+        "incorrecta1": "goed",
+        "incorrecta2": "gone",
+        "incorrecta3": "going"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es la forma interrogativa de la oración 'He is a teacher'?",
+        "respuesta": "Is he a teacher?",
+        "incorrecta1": "He is a teacher?",
+        "incorrecta2": "Are he a teacher?",
+        "incorrecta3": "Is him a teacher?"
+        },
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el significado de la palabra 'excited'?",
+        "respuesta": "emocionado",
+        "incorrecta1": "aburrido",
+        "incorrecta2": "excitado",
+        "incorrecta3": "enojado"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el plural de la palabra 'child'?",
+        "respuesta": "children",
+        "incorrecta1": "childs",
+        "incorrecta2": "childes",
+        "incorrecta3": "childen"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el significado de la expresión 'to break the ice'?",
+        "respuesta": "romper el hielo",
+        "incorrecta1": "construir el hielo",
+        "incorrecta2": "derretir el hielo",
+        "incorrecta3": "saltar sobre el hielo"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el pronombre posesivo correspondiente a la tercera persona del plural?",
+        "respuesta": "their",
+        "incorrecta1": "his",
+        "incorrecta2": "her",
+        "incorrecta3": "its"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el pasado participio del verbo 'eat'?",
+        "respuesta": "eaten",
+        "incorrecta1": "ate",
+        "incorrecta2": "eated",
+        "incorrecta3": "eating"
+        },
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el significado de la palabra 'excited'?",
+        "respuesta": "emocionado",
+        "incorrecta1": "aburrido",
+        "incorrecta2": "cansado",
+        "incorrecta3": "enojado"
+        },
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es la estructura básica del tiempo presente perfecto?",
+        "respuesta":"Sujeto + have/has + participio pasado del verbo",
+        "incorrecta1":"Sujeto + have/has + verbo en presente",
+        "incorrecta2":"Sujeto + had + participio pasado del verbo",
+        "incorrecta3":"Sujeto + has/have + verbo en pasado"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es la forma negativa del presente perfecto en tercera persona?",
+        "respuesta":"Sujeto + hasn't + participio pasado del verbo",
+        "incorrecta1":"Sujeto + haven't + participio pasado del verbo",
+        "incorrecta2":"Sujeto + hasn't + verbo en pasado",
+        "incorrecta3":"Sujeto + hasn't + verbo en presente"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es la forma interrogativa del presente perfecto en segunda persona singular?",
+        "respuesta":"Have you + participio pasado del verbo?",
+        "incorrecta1":"Has you + participio pasado del verbo?",
+        "incorrecta2":"Have you + verbo en pasado?",
+        "incorrecta3":"Has you + verbo en presente?"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuándo se utiliza el presente perfecto en inglés?",
+        "respuesta":"Se utiliza para hablar de acciones que ocurrieron en un tiempo no específico en el pasado y que tienen relevancia en el presente.",
+        "incorrecta1":"Se utiliza para hablar de acciones que ocurrieron en el pasado y están completamente terminadas.",
+        "incorrecta2":"Se utiliza para hablar de acciones futuras que ya están planeadas.",
+        "incorrecta3":"Se utiliza para hablar de acciones que ocurrieron en un tiempo específico en el pasado."
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es la forma contraída de 'I have' en el presente perfecto?",
+        "respuesta":"I've",
+        "incorrecta1":"I'm",
+        "incorrecta2":"I'd",
+        "incorrecta3":"I'll"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es la forma negativa de 'We have' en el presente perfecto?",
+        "respuesta":"We haven't",
+        "incorrecta1":"We don't have",
+        "incorrecta2":"We hadn't",
+        "incorrecta3":"We didn't have"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es el participio pasado del verbo 'go'?",
+        "respuesta":"Gone",
+        "incorrecta1":"Goed",
+        "incorrecta2":"Went",
+        "incorrecta3":"Goes"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Qué palabra se utiliza para indicar la duración de una acción en el presente perfecto?",
+        "respuesta":"For",
+        "incorrecta1":"In",
+        "incorrecta2":"From",
+        "incorrecta3":"On"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es la forma interrogativa de 'She has' en el presente perfecto?",
+        "respuesta":"Has she",
+        "incorrecta1":"Have she",
+        "incorrecta2":"She hasn't",
+        "incorrecta3":"She have"
+        },
+        
+        {
+        "categoria":"Inglés",
+        "pregunta":"¿Cuál es la forma negativa de 'He has' en el presente perfecto?",
+        "respuesta":"He hasn't",
+        "incorrecta1":"He don't have",
+        "incorrecta2":"He hadn't",
+        "incorrecta3":"He don't has"
+        },
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el verbo en la oración 'She is reading a book'?",
+        "respuesta": "reading",
+        "incorrecta1": "is",
+        "incorrecta2": "she",
+        "incorrecta3": "book"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el pasado simple del verbo 'go'?",
+        "respuesta": "went",
+        "incorrecta1": "gone",
+        "incorrecta2": "goed",
+        "incorrecta3": "going"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es la forma negativa de la oración 'I like pizza'?",
+        "respuesta": "I don't like pizza",
+        "incorrecta1": "I not like pizza",
+        "incorrecta2": "I doesn't like pizza",
+        "incorrecta3": "I dislike pizza"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el comparativo de 'good'?",
+        "respuesta": "better",
+        "incorrecta1": "gooder",
+        "incorrecta2": "best",
+        "incorrecta3": "well"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el plural de 'child'?",
+        "respuesta": "children",
+        "incorrecta1": "childs",
+        "incorrecta2": "childes",
+        "incorrecta3": "childen"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el significado de 'cat' en español?",
+        "respuesta": "gato",
+        "incorrecta1": "perro",
+        "incorrecta2": "pájaro",
+        "incorrecta3": "ratón"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Qué significa la expresión 'How are you doing?'?",
+        "respuesta": "¿Cómo estás?",
+        "incorrecta1": "¿Dónde estás?",
+        "incorrecta2": "¿Qué estás haciendo?",
+        "incorrecta3": "¿Cuántos años tienes?"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el opuesto de 'hot'?",
+        "respuesta": "cold",
+        "incorrecta1": "cool",
+        "incorrecta2": "warm",
+        "incorrecta3": "chilly"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el sinónimo de 'beautiful'?",
+        "respuesta": "gorgeous",
+        "incorrecta1": "ugly",
+        "incorrecta2": "plain",
+        "incorrecta3": "ordinary"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "respuesta": "Canberra",
+        "incorrecta1": "Sydney",
+        "incorrecta2": "Melbourne",
+        "incorrecta3": "Perth"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el presente progresivo del verbo 'eat' en tercera persona del singular?",
+        "respuesta": "is eating",
+        "incorrecta1": "are eating",
+        "incorrecta2": "am eating",
+        "incorrecta3": "eats"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el superlativo de 'happy'?",
+        "respuesta": "happiest",
+        "incorrecta1": "happier",
+        "incorrecta2": "most happy",
+        "incorrecta3": "happyest"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el pasado participio del verbo 'break'?",
+        "respuesta": "broken",
+        "incorrecta1": "breaked",
+        "incorrecta2": "broke",
+        "incorrecta3": "breaking"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el pronombre posesivo de tercera persona del plural?",
+        "respuesta": "their",
+        "incorrecta1": "his",
+        "incorrecta2": "her",
+        "incorrecta3": "its"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el comparativo de 'big'?",
+        "respuesta": "bigger",
+        "incorrecta1": "biggest",
+        "incorrecta2": "more big",
+        "incorrecta3": "biger"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el pasado simple del verbo 'be' en tercera persona del singular?",
+        "respuesta": "was",
+        "incorrecta1": "were",
+        "incorrecta2": "beed",
+        "incorrecta3": "been"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el antónimo de 'happy'?",
+        "respuesta": "sad",
+        "incorrecta1": "joyful",
+        "incorrecta2": "excited",
+        "incorrecta3": "content"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el sinónimo de 'angry'?",
+        "respuesta": "mad",
+        "incorrecta1": "happy",
+        "incorrecta2": "peaceful",
+        "incorrecta3": "joyful"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Qué significa la expresión 'to break the ice'?",
+        "respuesta": "romper el hielo",
+        "incorrecta1": "construir un puente",
+        "incorrecta2": "cortar la cuerda",
+        "incorrecta3": "hacer un nudo"
+        },
+        
+        {
+        "categoria": "Inglés",
+        "pregunta": "¿Cuál es el plural de 'man'?",
+        "respuesta": "men",
+        "incorrecta1": "mans",
+        "incorrecta2": "mens",
+        "incorrecta3": "manes"
+        }
+]

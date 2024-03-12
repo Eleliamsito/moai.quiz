@@ -1,0 +1,290 @@
+
+*{
+    margin: 0%;
+    transition: 0.3s;
+    font-family: 'fuente2';
+    font-size:115% ;
+}
+@font-face {
+    font-family: 'fuente';
+    src: url("Silky\ Queen.otf");
+    
+}
+@font-face {
+    font-family: fuente2;
+    src: url("Magic\ Bread\ Regular.ttf");
+}
+
+.parent 
+{
+   display: flex;
+   flex-direction: column;
+    background-color: #f1f1f0;
+    font-size: x-large;
+}
+
+header{   
+    
+    background-color: #FFE066;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img{
+    margin: 10%;
+}
+a{
+    margin-right: 20px;
+  
+}
+nav{
+    margin-top: 20px;
+
+}
+.div8 { 
+ 
+    background-color: #247BA0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 400%;
+    font-family: fuente;
+    color: aliceblue;
+    text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 2px 2px 2px rgba(206,206,206,0);
+    padding: 1.5%;
+    text-align: center;
+}
+
+.div10 
+{ 
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+.div11 { 
+    background-color: #70C1B3;
+    padding: 10px;
+    text-align: center;
+    font-size: 120%;
+    text-transform: capitalize;
+}
+
+
+.categoria {
+    float: left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 22%;
+    height: 330px;
+    box-shadow:0 0 0 200px inset, 0 0 5px rgb(112, 112, 112);
+    transition: box-shadow 1s;
+    margin: 1.5%;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.categoria::after {
+    width: 80%;
+    height: 20%;
+    display: block;
+    white-space: pre;
+    font-size:70%;
+    color: #333;
+    background: #f0f8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 16px;
+    transition: opacity 1s .5s;
+    text-transform: uppercase;
+    
+
+}
+
+.categoria:hover {
+    box-shadow: 0 0 0 5px inset, 0 0 5px #0000000f,
+    0 0 10px #0000000f inset; 
+    transition: box-shadow 1s;
+    cursor: pointer;
+    
+
+}
+
+.categoria:hover::after {
+    opacity: 0;
+    transition: opacity .5s;
+    
+}
+
+
+#culturaG {
+    color: rgb(165, 144, 165);
+    
+
+}
+
+#culturaG:hover {
+
+    background-image: url(cg.png);
+    background-size: cover;
+   
+
+}
+
+#culturaG::after {
+    content: 'Cultura General';
+    
+
+}
+#programación {
+
+    color: #96d0ff;
+}
+
+#programación:hover {
+
+    background-image: url(pro.png);
+
+    background-size: cover;
+}
+
+#programación::after {
+    content: 'Programación'
+}
+
+#quimica {
+    color: rgb(172, 189, 143);
+    
+}
+
+#quimica:hover {
+
+    background-image: url(qui.png);
+
+    background-size: cover;
+
+}
+
+#quimica::after {
+    content: 'Química';
+}
+
+#Ingles {
+    color:rgb(221, 129, 137) ;
+}
+
+#Ingles:hover {
+
+    background-image: url(ing.png);
+
+    background-size: cover;
+
+}
+
+#Ingles::after {
+    content: 'Inglés';
+
+}
+
+.mini {
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 98%;
+    height: 200px;
+    box-shadow:0 0 0 200px inset, 0 0 5px rgb(112, 112, 112);
+    transition: box-shadow 1s;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.mini::after {
+    width: 80%;
+    height: 20%;
+    display: block;
+    white-space: pre;
+    font-size: 70%;
+    color: #333;
+    background: #f0f8ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 16px;
+    transition: opacity 1s .5s;
+    text-transform: uppercase;
+    content: 'mini juego';
+
+}
+
+.mini:hover {
+    box-shadow: 0 0 0 5px inset, 0 0 5px #0000000f,
+    0 0 10px #0000000f inset; 
+    transition: box-shadow 1s;
+    cursor: pointer;
+    
+
+}
+
+.mini:hover::after {
+    opacity: 0;
+    transition: opacity .5s;
+    
+}
+
+#miniJuego{
+    grid-area: 7 / 1 / 9 / 8;
+    color: rgb(47, 52, 53);
+    
+}
+
+#miniJuego:hover {
+
+    background-image: url(mini.jpg);
+
+    background-size: cover;
+
+}
+
+
+
+.mensaje{
+   
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    font-size: 180%;
+    margin: 2.5% ;
+}
+
+.contenido{
+    display: flex;
+    flex-direction: column;
+    background-color: #f1f1f0;
+    font-family: 'fuente2';
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    padding : 8%;
+    font-size: 140%;
+}
+
+a{
+    text-decoration: none;
+    color: #7d7d7d;
+}
+a:hover{
+    color:#000;
+}
+h2:hover{
+    scale: 1.2;
+    cursor: pointer;
+    font-weight: bold;
+}
